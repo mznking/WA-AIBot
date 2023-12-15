@@ -18,7 +18,8 @@ This is a source code to build a WhatsApp bot using AIs and Node.js. The bot is 
 
 ## Bot Commands
 Here is the available commands of bot.
-```
+```txt
+
 menu - Get commands list of bot.
 alive - Check bot is alive or not.
 ping - Check reply speed of bot.
@@ -30,6 +31,7 @@ sc - Get script of bot.
 ```
 
 ## API KEY
+**1. OpenAI API KEY**
 - Sign Up to OpenAi Website
      <br>
 <a href='https://platform.openai.com/signup' target="_blank"><img alt='SIGN UP' src='https://img.shields.io/badge/Sign_Up-100000?style=for-the-badge&logo=signup&logoColor=white&labelColor=black&color=black'/></a>
@@ -37,6 +39,8 @@ sc - Get script of bot.
 - Get your api key and copy!
       <br>
 <a href='https://platform.openai.com/account/api-keys' target="_blank"><img alt='GET API KEY' src='https://img.shields.io/badge/Get_Api_Key-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+**2. Bard 1PSID Key**
 
 ## Deploy Bot
 **1. Deploy to Replit**
@@ -48,14 +52,12 @@ sc - Get script of bot.
 - Use uptimerobot to bot work for 24×7 without any restrictions.
 
 **3. Deploy to Railway**
-- Fork this repository and change to private.
-- Fill (mznSettings.json)[] with your api keys and more.
 
-<a href='https://replit.com/github/MznStudios/WA-AIBot' target="_blank"><img src='https://camo.githubusercontent.com/44adf65830f9eeecb9a8e4ab0ff42c4675ca5fac750f0ec923abb86d0d8bedd1/68747470733a2f2f62696e6261736862616e616e612e6769746875622e696f2f6465706c6f792d627574746f6e732f627574746f6e732f72656d6164652f7261696c7761792e737667'/></a>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/CgZgh2?referralCode=5uh61Z)
 
 **2. Deploy to Termux**
 
-```js
+```txt
 
 apt update
 apt upgrade
