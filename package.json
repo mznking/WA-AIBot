@@ -1,7 +1,7 @@
 {
-  "name": "WA-AIBot",
+  "name": "Wa-OpenAI",
   "version": "2.1.0",
-  "description": "A WhatsApp bot with AI language models, Developed by Maazin Ahamed.",
+  "description": "A WhatsApp Bot with multiple AI language models for do different tasks.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,8 +18,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/MznStudios/WA-AIBot",
-  "author": "Maazin Ahamed",
+  "base": "https://github.com/DikaArdnt/Hisoka-Morou",
+  "author": "Yusril",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.0",
