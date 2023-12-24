@@ -3,13 +3,13 @@
 <img src="https://telegra.ph/file/3ed55671e6130cdd0c840.jpg"/>
 </p>
 <p align="center">
-<a href="https://github.com/MznStudios"><img title="Author" src="https://img.shields.io/badge/DEVELOPED BY MAAZIN AHAMED-red?style=for-the-badge&logo=social"></a>
+<a href="https://github.com/mznking"><img title="Author" src="https://img.shields.io/badge/DEVELOPED BY MAAZIN AHAMED-red?style=for-the-badge&logo=social"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/MznStudios?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MznStudios?label=Followers&style=social"></a>
-<a href="https://github.com/MznStudios/WA-AIBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/MznStudios/WA-AIBot?&style=social"></a>
-<a href="https://github.com/MznStudios/WA-AIBot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/MznStudios/WA-AIBot?style=social"></a>
-<a href="https://github.com/MznStudios/WhatsAppOpenAi-Bot/watchers"><img title="Viewers" src="https://img.shields.io/github/watchers/MznStudios/WA-AIBot?label=Watching&style=social"></a>
+<a href="https://github.com/mznking?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mznking?label=Followers&style=social"></a>
+<a href="https://github.com/mznking/WA-AIBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/mznking/WA-AIBot?&style=social"></a>
+<a href="https://github.com/mznking/WA-AIBot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/mznking/WA-AIBot?style=social"></a>
+<a href="https://github.com/mznking/WhatsAppOpenAi-Bot/watchers"><img title="Viewers" src="https://img.shields.io/github/watchers/mznking/WA-AIBot?label=Watching&style=social"></a>
 </p>
 
  
@@ -31,7 +31,7 @@ sc - Get script of bot.
 ```
 
 ## API KEY
-Read this documentation: https://github.com/MznStudios/WA-AIBot/blob/main/API_KEY.MD
+Read this documentation: https://github.com/mznking/WA-AIBot/blob/main/API_KEY.MD
 
 ## Pairing Code
 
@@ -42,7 +42,7 @@ Read this documentation: https://github.com/MznStudios/WA-AIBot/blob/main/API_KE
 ## Deploy Bot
 **1. Deploy to Replit**
 
-<a href='https://replit.com/github/MznStudios/WA-AIBot' target="_blank"><img src='https://camo.githubusercontent.com/de8d18f58a5c013d803964424dc10e4276d57c2d9f7d2bd5ce2ffa127d6e832c/68747470733a2f2f62696e6261736862616e616e612e6769746875622e696f2f6465706c6f792d627574746f6e732f627574746f6e732f72656d6164652f7265706c69742e737667'/></a>
+<a href='https://replit.com/github/mznking/WA-AIBot' target="_blank"><img src='https://camo.githubusercontent.com/de8d18f58a5c013d803964424dc10e4276d57c2d9f7d2bd5ce2ffa127d6e832c/68747470733a2f2f62696e6261736862616e616e612e6769746875622e696f2f6465706c6f792d627574746f6e732f627574746f6e732f72656d6164652f7265706c69742e737667'/></a>
 
 - Scan QR Code on your WhatsApp by Replit Console!
 
@@ -62,7 +62,7 @@ pkg update && pkg upgrade
 pkg install git -y
 pkg install git -y
 pkg install nodejs -y 
-git clone https://github.com/MznStudios/WA-AIBot
+git clone https://github.com/mznking/WA-AIBot
 cd WA-AIBot
 npm install
 npm start
@@ -71,4 +71,4 @@ npm start
 - Scan QR Code on your WhatsApp by Termux Console!
 
 ## License
-**This repository  is licensed under the [MIT LICENSE](https://github.com/MznStudios/WA-AIBot/blob/main/LICENSE).**
+**This repository  is licensed under the [MIT LICENSE](https://github.com/mznking/WA-AIBot/blob/main/LICENSE).**
