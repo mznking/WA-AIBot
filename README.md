@@ -31,13 +31,13 @@ sc - Get script of bot.
 ```
 
 ## API KEY
-
+Read this documentation: https://github.com/MznStudios/WA-AIBot/blob/main/API_KEY.MD
 
 ## Pairing Code
 
 - Visit this website and enter your whatsapp number and enter the code to your whatsapp account on Linked Devices.
 
-<a href="https://replit.com/@mznking04/BOT-PAIRING-CODE"><img title="Pairing Code" src="https://img.shields.io/badge/Pairing Code-red?style=for-the-badge&logo=social"></a>
+<a href="https://replit.com/@mznking04/BOT-PAIRING-CODE"><img title="Pairing Code" src="https://img.shields.io/badge/Pairing Code-black?style=for-the-badge&logo=social"></a>
 
 ## Deploy Bot
 **1. Deploy to Replit**
